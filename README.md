@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yuliang Xiao
 - 👀 I’m interested in Robotics.
-- 🌱 I’m currently learning Mechanical Engineering & Computer Science.
-- 💞️ I’m looking to continue study in JHU as my graduate school.
-- 📫 How to reach me: email: cyrilxiao8315@gmail.com
+- 🌱 My undergraduate majors are Mechanical Engineering & Computer Science.
+- 💞️ I’m currently a master student in Johns Hopkins University and my major is Robotics.
+- 📫 How to reach me: email: yxiao39@jh.edu
 
 <!---
 CyrilXiao/CyrilXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

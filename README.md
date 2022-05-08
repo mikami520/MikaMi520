@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics, especially in medical image registration and segmentation using deep learning.
 - 🌱 My undergraduate majors are Mechanical Engineering & Computer Science.
 - 💞️ I’m currently a master student in Johns Hopkins University and my major is Robotics.
-- 📫 How to reach me: email: yxiao39@jh.edu
+- 📫 How to reach me: email: yxiao39@jhu.edu
 
 <!---
 CyrilXiao/CyrilXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

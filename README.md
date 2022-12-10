@@ -5,19 +5,20 @@
 - 📫 How to reach me: yxiao39@jhu.edu / cyrilxiao8315@gmail.com
 
 [![Yuliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikami520&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave)](https://github.com/mikami520/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&count_private=true&layout=compact&theme=synthwave)](https://github.com/mikami520/github-readme-stats)
 #### Top Repositories
 
 
 <a href="https://github.com/mikami520/nnUNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=nnUNet&theme=synthwave&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=nnUNet&theme=synthwave" />
 </a>
 <a href="https://github.com/mikami520/MONAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=MONAI&theme=synthwave&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=MONAI&theme=synthwave" />
 </a>
 <a href="https://github.com/mikami520/guided-diffusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=guided-diffusion&theme=synthwave&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=guided-diffusion&theme=synthwave" />
 </a>
 <a href="https://github.com/mikami520/DALL-E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=DALL-E&theme=synthwave&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikami520&repo=DALL-E&theme=synthwave" />
 </a>
 

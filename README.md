@@ -4,12 +4,8 @@
 - 💞️ I’m currently a master student in Johns Hopkins University and my major is Robotics.
 - 📫 How to reach me: email: yxiao39@jhu.edu
 
-<a href="https://github.com/mikami520/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikami520&show_icons=true&count_private=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Yuliang's github stats" />
-</a> 
-<a href="https://github.com/mikami520/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? username=mikami520&count_private=true&layout=compact&theme=jolly&hide_border=true" />
-</a>
+[![Yuliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikami520&show_icons=true&count_private=true&include_all_commits=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&hide=XML,Rich%20Text%20Format&theme=jolly&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Repositories
 

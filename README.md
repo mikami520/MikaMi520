@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yuliang Xiao
 - 👀 I’m interested in Robotics, especially in medical image analysis like registration and segmentation using deep learning.
-- 🌱 My undergraduate degrees are **Mechanical Engineering & Computer Science** from **University of Pittsburgh**.
-- 💞️ I obtained my master degree in **Johns Hopkins University** and my major is **Medical Robotics**.
+- 💞️ My undergraduate degrees are **Mechanical Engineering & Computer Science** from **the University of Pittsburgh**.
+- 💞️ I obtained my master degree in **Johns Hopkins University** supervised by **Prof. Russell Taylor, Dr. Pete Creighton and Dr. Masaru Ishii** and my major is **Medical Robotics**.
+- 🌱 I am now a research assistant supervised by **Dr. Qi Dou** at the Chinese University of Hong Kong.
 - 📫 How to reach me: yxiao39@jhu.edu / cyrilxiao8315@gmail.com
 
 | <a href="https://github.com/mikami520/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikami520&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&locale=en" alt="Yuliang's github stats" /></a> | <a href="https://github.com/mikami520/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikami520&count_private=true&layout=compact&theme=synthwave&hide_border=true&langs_count=20&locale=en" /></a> |

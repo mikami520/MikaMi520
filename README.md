@@ -6,7 +6,6 @@
 - 📫 How to reach me: yxiao39@jhu.edu / cyrilxiao8315@gmail.com
 
 | <a href="https://github.com/mikami520/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikami520&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&locale=en" alt="Yuliang's github stats" /></a> | <a href="https://github.com/mikami520/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&count_private=true&layout=donut&theme=synthwave&hide_border=true&langs_count=5&locale=en" /></a> |
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikami520)](https://github.com/mikami520/github-readme-stats) |
 | ------------- | ------------- |
 #### Top Repositories
 <a href="https://github.com/mikami520/nnUNet">

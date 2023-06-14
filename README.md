@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=MONAI&theme=synthwave" />
 </a>
 <a href="https://github.com/mikami520/guided-diffusion">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=guided-diffusion&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=guided-diffusion&theme=synthwave&show_owner=true" />
 </a>
 <a href="https://github.com/mikami520/DALL-E">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=DALL-E&theme=synthwave" />

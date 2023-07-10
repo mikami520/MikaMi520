@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuliang Xiao
 - 👀 I’m interested in robotics, deep learning, 3D reconstruction, neural image, MRI and ultrasound development.
 - 💞️ My undergraduate degrees are **Mechanical Engineering & Computer Science** from **the University of Pittsburgh**.
-- 💞️ I obtained my master degree in **Johns Hopkins University** supervised by **Prof. Russell Taylor, Dr. Francis Creighton and Dr. Masaru Ishii** and my major is **Medical Robotics**.
+- 💞️ I obtained my **Medical Robotics** master degree in **Johns Hopkins University** supervised by **Prof. Russell Taylor, Dr. Francis Creighton and Dr. Masaru Ishii**.
 - 🌱 I am now a research assistant supervised by **Dr. Qi Dou** at the Chinese University of Hong Kong.
 - 📫 How to reach me: yxiao39@jhu.edu / cyrilxiao8315@gmail.com
 

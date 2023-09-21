@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yuliang Xiao
-- 👀 I’m interested in robotics, deep learning, 3D reconstruction, neural image, MRI and ultrasound development.
+- 👀 I’m interested in robotics, neuroscience & neuroimage, deep learning, and MRI development.
 - 💞️ My undergraduate degrees are **Mechanical Engineering & Computer Science** from **University of Pittsburgh**.
 - 💞️ I obtained my **Medical Robotics** master degree in **Johns Hopkins University** supervised by **Prof. Russell Taylor, Dr. Francis Creighton and Dr. Masaru Ishii**.
 - 🌱 I am now a Ph.D. candidate of **Medical Biophysics** at the **University of Toronto**.

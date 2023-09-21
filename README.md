@@ -4,17 +4,4 @@
 - 💞️ I obtained my **Medical Robotics** master degree in **Johns Hopkins University** supervised by **Prof. Russell Taylor, Dr. Francis Creighton and Dr. Masaru Ishii**.
 - 🌱 I am now a Ph.D. candidate of **Medical Biophysics** at the **University of Toronto**.
 - 📫 How to reach me: yl.xiao@mail.utoronto.ca / cyrilxiao8315@gmail.com
-[![GitHub Streak](https://github-readme-streak-stats1.vercel.app?user=Chris%20Xiao&theme=synthwave&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=750)](https://git.io/streak-stats)
-#### Top Repositories
-<a href="https://github.com/mikami520/nnUNet">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=nnUNet&theme=synthwave&show_owner=true" />
-</a>
-<a href="https://github.com/mikami520/MONAI">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=MONAI&theme=synthwave&show_owner=true" />
-</a>
-<a href="https://github.com/mikami520/guided-diffusion">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=guided-diffusion&theme=synthwave&show_owner=true" />
-</a>
-<a href="https://github.com/mikami520/DALL-E">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mikami520&repo=DALL-E&theme=synthwave&show_owner=true" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats1.vercel.app?user=Chris%20Xiao&theme=ambient_gradient&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=750)](https://git.io/streak-stats)

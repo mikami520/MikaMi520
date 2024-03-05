@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, neuroscience & neuroimage, deep learning, and MRI development.
 - 💞️ My undergraduate degrees are **Mechanical Engineering & Computer Science** from **University of Pittsburgh**.
 - 💞️ I obtained my **Medical Robotics** master degree in **Johns Hopkins University** supervised by **Prof. Russell Taylor**.
-- 🌱 I am now a Ph.D. candidate of **Medical Biophysics** at the **University of Toronto**.
+- 🌱 I am now a Ph.D. candidate in **Medical Biophysics** at the **University of Toronto** supervised by **Prof Simon Graham**.
 - 📫 How to reach me: yl.xiao@mail.utoronto.ca / cyrilxiao8315@gmail.com
 
   

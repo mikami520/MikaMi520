@@ -6,4 +6,4 @@
 - 📫 How to reach me: yl.xiao@mail.utoronto.ca / cyrilxiao8315@gmail.com
 
   
-[![GitHub Streak](https://github-readme-streak-stats1.vercel.app?user=Chris%20Xiao&theme=ambient_gradient&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=950)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats1.vercel.app?user=Chris%20Xiao&theme=ambient_gradient&hide_border=true&mode=weekly&date_format=n%2Fj%5B%2FY%5D&card_width=950)](https://git.io/streak-stats)

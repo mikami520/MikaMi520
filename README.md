@@ -13,7 +13,7 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 </p>
 <h3 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I'm Chris Xiao! Researcher - MRI Coil & Parallel Transmission Development at SRI, University of Toronto
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I'm Chris Xiao! Researcher - MRI Coil & PTX Development at SRI, University of Toronto
 </h3>
 
 <h3 align="center">

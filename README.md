@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Yuliang Xiao
-![](https://komarev.com/ghpvc/?username=mikami520&color=blueviolet&abbreviated=true)  
+- 👋 Hi, I’m @Yuliang Xiao ![](https://komarev.com/ghpvc/?username=mikami520&color=blueviolet&abbreviated=true&label=PROFILE+VIEWS) 
 - 👀 I’m interested in robotics, deep learning, MRI pTx development and neuroscience & neuroimage.
 - 💞️ My undergraduate degrees are **Mechanical Engineering & Computer Science** from **University of Pittsburgh**.
 - 💞️ I obtained M.S.E in **Robotics** at **Johns Hopkins University** supervised by **Prof. Russell H. Taylor**.

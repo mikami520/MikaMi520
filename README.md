@@ -1,6 +1,14 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Chris%20Xiao&descSize=30" />
+</p>
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+interested+in+MRI+coil+and+pTx+development+!" />
+</p>
 <p align="center">
     <a href="mailto:yl.xiao@mail.utoronto.ca" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-yl.xiao@mail.utoronto.ca-8A2BE2?style=flat&logo=minutemailer&logoColor=white"></a>
+    <img src=https://wakatime.com/badge/user/688f4271-a740-4873-860a-be56204ec861.svg />
     <img src="https://komarev.com/ghpvc/?username=mikami520&label=profile+views" alt="mikami520"/>       
     <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
@@ -13,14 +21,11 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 </p>
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> I'm Chris Xiao! PhD Student - MRI Coil & PTX Development at SRI, University of Toronto
-</h3>
-
-<h3 align="center">
   
   <a href="#">![SkillIcons](https://skillicons.dev/icons?i=anaconda,c,cpp,github,java,md,matlab,pkl,pytorch,js,html,css,py,qt,ros,rust,tensorflow,ubuntu,unity,vscode&perline=10)</a>
 </h3> 
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mikami520&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <h3 align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikami520&theme=transparent" alt="mikami520"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikami520&theme=transparent" alt="mikami520"/>
@@ -28,3 +33,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikami520&theme=transparent" alt="mikami520"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikami520&theme=transparent" alt="mikami520"/>
 </h3>
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>

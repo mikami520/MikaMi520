@@ -22,9 +22,9 @@
 </h3> 
 
 <h3 align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikami520&theme=omni" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikami520&theme=omni" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikami520&theme=omni&utcOffset=8" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikami520&theme=omni" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikami520&theme=omni" alt="mikami520"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikami520&theme=transparent" alt="mikami520"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikami520&theme=transparent" alt="mikami520"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikami520&theme=transparent&utcOffset=8" alt="mikami520"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikami520&theme=transparent" alt="mikami520"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikami520&theme=transparent" alt="mikami520"/>
 </h3>

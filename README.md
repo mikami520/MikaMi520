@@ -4,7 +4,7 @@
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+interested+in+MRI+coil+and+pTx+development+!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+MRI+coil+and+pTx+development+!" />
 </p>
 <p align="center">
     <a href="mailto:yl.xiao@mail.utoronto.ca" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-yl.xiao@mail.utoronto.ca-8A2BE2?style=flat&logo=minutemailer&logoColor=white"></a>
@@ -20,19 +20,23 @@
     <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 </p>
-<h3 align="center">
-  
-  <a href="#">![SkillIcons](https://skillicons.dev/icons?i=anaconda,c,cpp,github,java,md,matlab,pkl,pytorch,js,html,css,py,qt,ros,rust,tensorflow,ubuntu,unity,vscode&perline=10)</a>
-</h3> 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mikami520&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<h3 align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikami520&theme=transparent" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikami520&theme=transparent" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikami520&theme=transparent&utcOffset=8" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikami520&theme=transparent" alt="mikami520"/>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikami520&theme=transparent" alt="mikami520"/>
-</h3>
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mikami520&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img align="center" width="400" src="https://streak-stats.demolab.com?user=mikami520&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+    <br/>
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mikami520&theme=github-compact&hide_border=true&area=true" />
+    <br/>
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mikami520&theme=transparent&hide_border=true&layout=compact&langs_count=20" />
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+    <br/>
+    <img align="center" src="https://skillicons.dev/icons?i=anaconda,c,cpp,github,java,md,matlab,pkl,pytorch,js,html,css,py,qt,ros,rust,tensorflow,ubuntu,unity,vscode&perline=10" />
+</p>
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />

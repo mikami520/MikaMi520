@@ -4,7 +4,7 @@
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+AI+and+Robotics+Perception+!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+AI+and+MRI+Reconstruction+!" />
 </p>
 <p align="center">
     <a href="mailto:yl.xiao@mail.utoronto.ca" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-yl.xiao@mail.utoronto.ca-8A2BE2?style=flat&logo=minutemailer&logoColor=white"></a>

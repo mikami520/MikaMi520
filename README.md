@@ -8,8 +8,8 @@
 </p>
 <p align="center">
     <a href="mailto:yl.xiao@mail.utoronto.ca" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-yl.xiao@mail.utoronto.ca-8A2BE2?style=flat&logo=minutemailer&logoColor=white"></a>
-    <!--<img src=https://wakatime.com/badge/user/688f4271-a740-4873-860a-be56204ec861.svg />-->
-    <img src="https://komarev.com/ghpvc/?username=mikami520&label=profile+views" alt="mikami520"/>       
+    <img src=https://wakatime.com/badge/user/688f4271-a740-4873-860a-be56204ec861.svg />
+    <img src="https://komarev.com/ghpvc/?username=mikami520&label=profile+views" alt="mikami520"/>
     <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 

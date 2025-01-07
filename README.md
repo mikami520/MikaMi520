@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+AI+and+MRI+Reconstruction+!" />
 </p>
 <p align="center">
-<!--     <a href="mailto:yl.xiao@mail.utoronto.ca" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-yl.xiao@mail.utoronto.ca-8A2BE2?style=flat&logo=minutemailer&logoColor=white"></a> -->
     <img src=https://wakatime.com/badge/user/688f4271-a740-4873-860a-be56204ec861.svg />
     <img src="https://komarev.com/ghpvc/?username=mikami520&label=profile+views" alt="mikami520"/>
     <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 

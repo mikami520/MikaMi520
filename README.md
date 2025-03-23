@@ -4,7 +4,7 @@
 </p>
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+AI+and+MRI+Reconstruction+!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+AI+and+MRI+Physics+!" />
 </p>
 <p align="center">
     <img src=https://wakatime.com/badge/user/688f4271-a740-4873-860a-be56204ec861.svg />

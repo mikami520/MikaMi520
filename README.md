@@ -33,7 +33,7 @@
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
     <br/>
-    <img align="center" src="https://skillicons.dev/icons?i=anaconda,c,cpp,github,git,md,matlab,js,html,css,py,pytorch,tensorflow,qt,ros,rust,ubuntu,sklearn,opencv,vscode&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=anaconda,cmake,cpp,github,git,md,matlab,js,html,css,py,pytorch,tensorflow,ros,rust,linux,mint,sklearn,opencv,vscode&perline=10" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->

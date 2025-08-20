@@ -31,7 +31,7 @@
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mikami520&theme=transparent&hide_border=true&layout=compact&langs_count=20" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikami520&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook" />
     <br/>
     <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,catppuccin,cmake,cpp,cuda,github,git,huggingface,jupyter,kitty,markdown,matplotlib,mint,opencv,python,pytorch,scipy,scikitlearn,vscode,yaml&perline=10&titles=true" />
 </p>

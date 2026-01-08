@@ -21,12 +21,14 @@
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" width="320", src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikami520&theme=transparent" />
     <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mikami520&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=mikami520&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+    <img align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=mikami520&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mikami520&theme=github-compact&hide_border=true&area=true" />
+    <!-- <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=mikami520&theme=github-compact&hide_border=true&area=true" /> -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikami520&theme=transparent" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mikami520&theme=transparent&hide_border=true&layout=compact&langs_count=20" /> -->

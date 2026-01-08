@@ -7,9 +7,8 @@
     <a href="https://github.com/mikami520/MikaMi520/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/mikami520/MikaMi520" /></a>
     <a href="https://github.com/mikami520?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/mikami520?color=4C1&logo=github"></a>
     <a href="https://github.com/mikami520/MikaMi520" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/mikami520/MikaMi520?style=fflat-square"></a>
-    <img width="330", src="https://github-readme-stats-fast.vercel.app/api?username=mikami520&show_icons=true&theme=transparent" />
-    <img width="350" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mikami520&theme=transparent" />
-    <img width="298" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mikami520&theme=transparent&hide=jupyter%20notebook&layout=compact&langs_count=6&hide_progress=true" />
+    <img width="474", src="https://github-readme-stats-fast.vercel.app/api?username=mikami520&show_icons=true&theme=transparent" />
+    <img width="499" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mikami520&theme=transparent" />
     </br>
     </br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,catppuccin,cmake,cpp,cuda,github,git,huggingface,jupyter,kitty,markdown,matplotlib,opencv,popos,python,pytorch,scipy,scikitlearn,vscode,yaml&perline=10&titles=true" />

@@ -10,18 +10,16 @@
   <br />
   <br />
 
-  <!-- Side-by-Side Stats and Languages (Both Theme Adaptive) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=YuliangXiaoYLX&amp;show_icons=true&amp;theme=dark&amp;v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=YuliangXiaoYLX&amp;show_icons=true&amp;v=2" />
-    <img height="195" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=YuliangXiaoYLX&amp;show_icons=true&amp;v=2" />
-  </picture>&nbsp;
+  <!-- Dark Mode Cards (Hidden in Light Mode) -->
+  <img height="195" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=YuliangXiaoYLX&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" />&nbsp;
   <a href="https://github.com/YuliangXiaoYLX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=YuliangXiaoYLX&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=dark&amp;v=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=YuliangXiaoYLX&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;v=2" />
-      <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=YuliangXiaoYLX&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;v=2" alt="Top Languages" />
-    </picture>
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=YuliangXiaoYLX&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=dark#gh-dark-mode-only" alt="Top Languages" />
+  </a>
+
+  <!-- Light Mode Cards (Hidden in Dark Mode) -->
+  <img height="195" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=YuliangXiaoYLX&amp;show_icons=true#gh-light-mode-only" />&nbsp;
+  <a href="https://github.com/YuliangXiaoYLX">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=YuliangXiaoYLX&amp;layout=compact&amp;langs_count=8&amp;card_width=320#gh-light-mode-only" alt="Top Languages" />
   </a>
 
   <br />
